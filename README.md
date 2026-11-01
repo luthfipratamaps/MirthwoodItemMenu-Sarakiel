@@ -11,6 +11,11 @@ Browse, search, and add items directly to your inventory through an in-game inte
 
 [Download Latest Release](https://github.com/luthfipratamaps/MirthwoodItemMenu-Sarakiel/releases/latest) | [Nexus Mods Page](https://www.nexusmods.com/mirthwood/mods/14)
 
+## Documentation
+
+- [Installation Guide](docs/INSTALLATION.md)
+- [Manual Testing Guide](docs/TESTING.md)
+
 ---
 
 ## Features
